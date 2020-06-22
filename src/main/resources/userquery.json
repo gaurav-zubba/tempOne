@@ -1,0 +1,12 @@
+{
+  "roles": [
+    {
+      "subscriptionType": "OBSERVER",
+      "roleDetails": []
+    },
+    {
+      "subscriptionType": "RESPONSIBLE",
+      "roleDetails": []
+    }
+  ]
+}

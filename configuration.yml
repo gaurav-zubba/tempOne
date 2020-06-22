@@ -1,0 +1,17 @@
+apiToken: 49wMDmUcUhv2DXphNSNuOy55PMnwAYaK6urRxAmu
+
+workspaceId: ltlsDevelopment1
+
+server:
+  type: simple
+  applicationContextPath: /
+  adminContextPath: /admin
+  connector:
+    port: 4003
+    type: http
+
+database:
+  driverClass: org.postgresql.Driver
+  user: postgres
+  password: Summerof@69
+  url: jdbc:postgresql://localhost:5432/leanix_fpe

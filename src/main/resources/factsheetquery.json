@@ -1,0 +1,13 @@
+{
+  "filter": {
+    "facetFilter": [
+      {
+        "facetKey": "FactSheetTypes",
+        "operator": "OR",
+        "keys": [
+          "CloudService"
+        ]
+      }
+    ]
+  }
+}

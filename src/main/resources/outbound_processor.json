@@ -1,0 +1,6 @@
+{
+  "connectorType": "leanix-ltls",
+  "connectorId":"leanix-ltls-types.rss",
+  "connectorVersion":"1.0",
+  "processingDirection":"outbound"
+}

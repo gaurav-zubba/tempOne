@@ -1,0 +1,6 @@
+{
+  "responseCode": "01",
+  "errorCode": "101",
+  "errorMessage": "RSS not found at the provided url",
+  "response": null
+}

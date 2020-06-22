@@ -1,0 +1,50 @@
+{
+  "rss": {
+    "channel": {
+      "title": "Sample Feed - Favorite RSS Related Software & Resources",
+      "description": "Take a look at some of FeedForAll's favorite software and resources for learning more about RSS.",
+      "link": "http://www.feedforall.com",
+      "category": {
+        "domain": "www.dmoz.com",
+        "content": "Computers/Software/Internet/Site Management/Content Management"
+      },
+      "copyright": "Copyright 2004 NotePage, Inc.",
+      "docs": "http://blogs.law.harvard.edu/tech/rss",
+      "language": "en-us",
+      "lastBuildDate": "Mon, 1 Nov 2004 13:17:17 -0500",
+      "managingEditor": "marketing@feedforall.com",
+      "pubDate": "Tue, 26 Oct 2004 14:06:44 -0500",
+      "webMaster": "webmaster@feedforall.com",
+      "generator": "FeedForAll Beta1 (0.0.1.8)",
+      "image": {
+        "url": "http://www.feedforall.com/feedforall-temp.gif",
+        "title": "FeedForAll Sample Feed",
+        "link": "http://www.feedforall.com/industry-solutions.htm",
+        "description": "FeedForAll Sample Feed",
+        "width": 144,
+        "height": 117
+      },
+      "item": [
+        {
+          "title": "RSS Resources",
+          "description": "Be sure to take a look at some of our favorite RSS Resources<br>\n<a href=\"http://www.rss-specifications.com\">RSS Specifications</a><br>\n<a href=\"http://www.blog-connection.com\">Blog Connection</a><br>\n<br>",
+          "link": "http://www.feedforall.com",
+          "pubDate": "Tue, 26 Oct 2004 14:01:01 -0500"
+        },
+        {
+          "title": "Recommended Desktop Feed Reader Software",
+          "description": "<b>FeedDemon</b> enables you to quickly read and gather information from hundreds of web sites - without having to visit them. Don't waste any more time checking your favorite web sites for updates. Instead, use FeedDemon and make them come to you. <br>\nMore <a href=\"http://store.esellerate.net/a.asp?c=1_SKU5139890208_AFL403073819\">FeedDemon Information</a>",
+          "link": "http://www.feedforall.com/feedforall-partners.htm",
+          "pubDate": "Tue, 26 Oct 2004 14:03:25 -0500"
+        },
+        {
+          "title": "Recommended Web Based Feed Reader Software",
+          "description": "<b>FeedScout</b> enables you to view RSS/ATOM/RDF feeds from different sites directly in Internet Explorer. You can even set your Home Page to show favorite feeds. Feed Scout is a plug-in for Internet Explorer, so you won't have to learn anything except for how to press 2 new buttons on Internet Explorer toolbar. <br>\nMore <a href=\"http://www.bytescout.com/feedscout.html\">Information on FeedScout</a><br>\n<br>\n<br>\n<b>SurfPack</b> can feature search tools, horoscopes, current weather conditions, LiveJournal diaries, humor, web modules and other dynamically updated content. <br>\nMore <a href=\"http://www.surfpack.com/\">Information on SurfPack</a><br>",
+          "link": "http://www.feedforall.com/feedforall-partners.htm",
+          "pubDate": "Tue, 26 Oct 2004 14:06:44 -0500"
+        }
+      ]
+    },
+    "version": 2.0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "1ceceb45-3902-40d0-99d4-65ab532855c7",
+  "legacyId": null,
+  "questionnaire": {
+    "id": "3f2e5b42-3fc4-4dd8-b2a3-3216ae8dbdb3",
+    "questions": [
+      {
+        "id": "9e4745ac-74bd-46a1-9c82-d910b01e212d",
+        "questionnaire": null,
+        "label": "post 1",
+        "type": "number",
+        "element": null,
+        "options": null,
+        "deleted": false,
+        "answerOptions": null,
+        "children": null,
+        "powerfeature": false,
+        "disabled": false,
+        "settings": null
+      },
+      {
+        "id": "8900285b-9e90-459c-9208-14e239fb5a1b",
+        "questionnaire": null,
+        "label": "post 2",
+        "type": "number",
+        "element": null,
+        "options": null,
+        "deleted": false,
+        "answerOptions": null,
+        "children": null,
+        "powerfeature": false,
+        "disabled": false,
+        "settings": null
+      },
+      {
+        "id": "d8332f35-a9df-404b-8b52-a6feba69a6cf",
+        "questionnaire": null,
+        "label": "post 3",
+        "type": "text",
+        "element": null,
+        "options": null,
+        "deleted": false,
+        "answerOptions": null,
+        "children": null,
+        "powerfeature": false,
+        "disabled": false,
+        "settings": null
+      },
+      {
+        "id": "08493324-113e-4f6e-8fa2-d45eec1d71e4",
+        "questionnaire": null,
+        "label": "post 4",
+        "type": "date",
+        "element": null,
+        "options": null,
+        "deleted": false,
+        "answerOptions": null,
+        "children": null,
+        "powerfeature": false,
+        "disabled": false,
+        "settings": null
+      }
+    ]
+  },
+  "title": "Hello frrm postman 2",
+  "introductionText": "The Survey \"{{{surveyTitle}}}\" has been started. Your response is needed for {{{factSheetNumber}}} Fact Sheet(s): {{{factSheetNames}}}.\n\nPlease participate in it using the following link:\n{{{surveyLink}}}\n\nThank you,\n{{{senderFirstName}}} {{{senderLastName}}}",
+  "introductionSubject": "Please participate in LeanIX Survey: {{{surveyTitle}}}",
+  "additionalFactSheetSubject": "A Fact Sheet has been added to a Survey you are participating in",
+  "additionalFactSheetText": "The Survey \"{{{surveyTitle}}}\" contains {{{addedFactSheetNumber}}} new Fact Sheet(s): {{{addedFactSheetNames}}}. Your response is needed once more!\n\nPlease follow the link:\n{{{surveyLink}}}\n\nThank you,\n{{{senderFirstName}}} {{{senderLastName}}}",
+  "additionalFactSheetCheckEnabled": true,
+  "firstSendTime": null,
+  "lastSendTime": null,
+  "repeatIntervall": 0,
+  "timeFrame": 0,
+  "workspaceId": "2772c069-3799-4cdd-9849-24e012bc780c",
+  "creatorId": "a4751775-c0f4-46e6-aafe-ecc1658e7657",
+  "creationDate": "2020-06-18T05:22:53.454375Z",
+  "pollRunCount": null,
+  "openPollRunCount": null,
+  "factSheetType": null,
+  "sendChangeNotifications": true,
+  "allowedPermissionStatus": "ACTIVE_ONLY",
+  "status": "ACTIVE",
+  "userQuery": {
+    "roles": [
+      {
+        "subscriptionType": "OBSERVER",
+        "roleDetails": []
+      },
+      {
+        "subscriptionType": "RESPONSIBLE",
+        "roleDetails": []
+      }
+    ]
+  },
+  "factSheetQuery": {
+    "filter": {
+      "facetFilter": [
+        {
+          "facetKey": "FactSheetTypes",
+          "operator": "OR",
+          "keys": [
+            "CloudService"
+          ]
+        }
+      ]
+    }
+  }
+}

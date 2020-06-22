@@ -1,0 +1,27 @@
+{
+  "questionnaire": {
+    "questions": [
+      {
+        "type": "number",
+        "label": "post 1"
+      },
+      {
+        "type": "number",
+        "label": "post 2"
+      },
+      {
+        "type": "text",
+        "label": "post 3"
+      },
+      {
+        "type": "date",
+        "label": "post 4"
+      }
+    ]
+  },
+  "title": "fully test",
+  "allowedPermissionStatus": "ACTIVE_ONLY",
+  "workspaceId": "2772c069-3799-4cdd-9849-24e012bc780c"
+}
+
+eyJraWQiOiI0MDJjODg3NTBjZmJhOGQzZTQ0NjE0YzQ5YjBlYzg3NiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiJnYXVyYXYucGFyZWVrQGxlYW5peC5uZXQiLCJwcmluY2lwYWwiOnsiaWQiOiJhNDc1MTc3NS1jMGY0LTQ2ZTYtYWFmZS1lY2MxNjU4ZTc2NTciLCJ1c2VybmFtZSI6ImdhdXJhdi5wYXJlZWtAbGVhbml4Lm5ldCIsInJvbGUiOiJBQ0NPVU5UVVNFUiIsInN0YXR1cyI6IkFDVElWRSIsImFjY291bnQiOnsiaWQiOiI1YjA1NWMxYi0yZWEyLTQ1YmItOTMwNS00ODZkODMxZGU0YjUiLCJuYW1lIjoibGVhbml4In0sInBlcm1pc3Npb24iOnsiaWQiOiJiZDhiM2EwOS0xODMwLTQ5YmUtYWQ4MS00YjJiZTE0ZGJlYTAiLCJ3b3Jrc3BhY2VJZCI6IjI3NzJjMDY5LTM3OTktNGNkZC05ODQ5LTI0ZTAxMmJjNzgwYyIsIndvcmtzcGFjZU5hbWUiOiJsdGxzRGV2ZWxvcG1lbnQxIiwicm9sZSI6IkFETUlOIiwiY3VzdG9tZXJSb2xlcyI6bnVsbCwiYWNjZXNzQ29udHJvbEVudGl0aWVzIjpudWxsLCJzdGF0dXMiOiJBQ1RJVkUiLCJhc1VzZXIiOm51bGx9fSwiaXNzIjoiaHR0cHM6Ly9ldS1zdmMubGVhbml4Lm5ldCIsImp0aSI6ImI4YmRlOTNhLTVhMDEtNDU3ZS1iM2UxLTQ4MDVhOTI4MTI5OCIsImV4cCI6MTU5MjUxMTk1NywiaW5zdGFuY2VVcmwiOiJodHRwczovL2RlbW8tZXUubGVhbml4Lm5ldCJ9.QeTuZpOStrsWF9w40D5THEMdz22jQc605fQu5LvREMG77tKzn_lq3-xWvp6StD2BRlJMcPyaNViKmI2gjlktX3wou61FNqsoZv12nk4JELT1yKvPNF_Ik4EoCfQoUqhKYBogH0Ktg6fWcUTjqctQiB7KAzfJa1x3NsUmyB2muTcp_kVw53KtgFG94buUjHAKNVBf9abwEsS5xb7rSPkEnAoXg9JK5CHGpwPrSN-xAvNEL_EAd-fPSDfe-T2_gsMWfb-qXTLmDUmx-cGVNfWQHuWKvoMfVB7FSuptXyQLBQDIP9V1ZpFGW-Gj20M3Pg142PR9CQOMUUOVKthP6M0Zxg
